@@ -1,0 +1,14 @@
+name: help
+main: d.studio.main
+version: 0.5
+api-version: 1.15
+commands:
+    helpop:
+      description: Pide ayuda al staff
+      aliases:
+        - ayuda
+    report:
+      description: Reporte a un usuario
+      aliases:
+        - reporte
+        - reportar
